@@ -5,7 +5,7 @@
 print("Welcome to the Temerature Conversion program")
 
 # 2. Ask the user if they want to convert from Farenheit to Celsius or vice versa (provide 2 options)
-choice = input("")
+choice = input("Would you like to convert from Farenheit to Celsius or from Celsius to Farenheit?")
 
 # 3. Ask the user for a number to convert
 temp = int(input(""))
