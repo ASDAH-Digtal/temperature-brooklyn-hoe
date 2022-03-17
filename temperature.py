@@ -1,5 +1,5 @@
-# Student Name:
-# Date: 
+# Student Name: Brooklyn Hoeflich
+# Date: 17/03/2022
 
 # 1. Write a print statement that says "Welcome to the Temperature Conversion program"
 print("")
