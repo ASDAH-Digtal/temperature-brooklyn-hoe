@@ -2,7 +2,7 @@
 # Date: 17/03/2022
 
 # 1. Write a print statement that says "Welcome to the Temperature Conversion program"
-print("")
+print("Welcome to the Temerature Conversion program")
 
 # 2. Ask the user if they want to convert from Farenheit to Celsius or vice versa (provide 2 options)
 choice = input("")
