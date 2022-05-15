@@ -12,7 +12,7 @@ temp = int(input("what is the number you want to convert?"))
 
 # 4. Convert the number to its respective temperature
 farenheit = ["farenheit", "f", "convert to farenheit"]
-celsius = ["celsius", "c", "celsius"]
+celsius = ["celsius", "c", "convert to celsius"]
 result = 0
 
 if choice in farenheit:
